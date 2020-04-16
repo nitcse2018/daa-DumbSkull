@@ -1,0 +1,12 @@
+
+Resume Details:- 
+First Name: Beeta
+Last Name: Samad
+Email: beetasamad@yahoo.com
+Phone Number: 7303077410
+Address: Narela, Delhi		
+Educational Background: NIT DELHI IDK
+Qualifications: Being awesome 24/7
+Skills: 
+Java
+C++
